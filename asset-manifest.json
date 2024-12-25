@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fitnesscaloriemeter/static/css/main.7837cda9.css",
+    "main.js": "/fitnesscaloriemeter/static/js/main.c0d8a252.js",
+    "static/media/pic3-transformed.jpeg": "/fitnesscaloriemeter/static/media/pic3-transformed.024366271aa31d04e821.jpeg",
+    "index.html": "/fitnesscaloriemeter/index.html",
+    "main.7837cda9.css.map": "/fitnesscaloriemeter/static/css/main.7837cda9.css.map",
+    "main.c0d8a252.js.map": "/fitnesscaloriemeter/static/js/main.c0d8a252.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7837cda9.css",
+    "static/js/main.c0d8a252.js"
+  ]
+}
